@@ -1,6 +1,7 @@
 # kill-the-corona
+
 Unity Game
-![kill_the_corona_Icon](https://user-images.githubusercontent.com/59547151/107741195-08f4bc00-6d50-11eb-9e56-517a383911b9.png)
+
 
 
 > 게임 소개
